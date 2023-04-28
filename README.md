@@ -2,7 +2,7 @@
 Simple solution at each lvl of Elevator Saga
 </br>
 </br>
-The game Elevator Saga You could find at - <a href="play.elevatorsaga.com">play.elevatorsaga.com</a>.</br>
+The game Elevator Saga You could find at - [play.elevatorsaga.com](https://play.elevatorsaga.com/).</br>
 I propose You simple solution at each challenge of the game.</br>
 </br>
 Challenges 1-3 request quick elevator or elevators (more passengers by less time).</br>
